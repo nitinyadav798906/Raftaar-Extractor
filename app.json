@@ -4,23 +4,23 @@
   "repository": "",
   "env": {
     "API_ID": {
-      "description": "",
+      "description": "12475131",
       "required": true
     },
     "API_HASH": {
-      "description": "",
+      "description": "719171e38be5a1f500613837b79c536f",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "",
+      "description": "7706778428:AAG2uLYZm84_PLP9IFAWiXr6aTOwVkhUBJA",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "",
+      "description": "@Raftaar_speedskybot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "",
+      "description": "1714266885",
       "required": true
     },
     "SUDO_USERS": {
@@ -28,15 +28,15 @@
       "required": false
     },
     "CHANNEL_ID": {
-      "description": "-100",
+      "description": "-1002542634912",
       "required": true
     },
     "MONGO_URL": {
       "description": "",
-      "required": true
+      "required": false
     },
     "PREMIUM_LOGS": {
-      "description": "-100",
+      "description": "-1002542634912",
       "required": true
     }
   },
